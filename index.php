@@ -1,7 +1,7 @@
 <html>
 <head>
 </head>
-
+  <img srt="logo snip.jpg" alt="BirdBox Sports Logo">
 <center>
 Welcome to BirdBox Sports. The New-Age Home for all Boxing Enthusiasts!
 <br>
