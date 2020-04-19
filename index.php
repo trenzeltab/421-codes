@@ -2,14 +2,14 @@
 <head>
 </head>
 
-
+<center>
 Welcome to BirdBox Sports. The New-Age Home for all Boxing Enthusiasts!
 <br>
 
 
 </body>
 
-<h1>BirdBox Sports</h1>
+<h1>BirdBox Sports</h1> </center>
 <h2>Home Page</h2>
 
 <h4>Look at the preview below for a glance at our Top 50 Pound-for-Pound rankings!</h4>
@@ -62,8 +62,9 @@ $mysqli->close();
 
 ?>
 <br>
+<br> 
 <br>
-<br>
+<center>
 Thank you for visiting our site! Visit us again for updated rankings and news on worldwide championship boxing.
 <br>
 <br>
@@ -72,3 +73,4 @@ Contact Us: birdbox@gmail.com  OR our customer service team by phone 1-800-BOX-B
 <br>
 BirdBox Sports (R.)				Data seen on site is current as of 11:00 PM 4/17/2020
 </html>
+</center>
